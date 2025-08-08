@@ -3,7 +3,7 @@
 
 ### Project summary ###
 
-This project explores the temporal and geographical evolution of tuberculosis (TB) from 1990 to 2013, using data from the World Health Organization (WHOW). 
+This project explores the temporal and geographical evolution of tuberculosis (TB) from 1990 to 2013, using data from the [World Health Organization (WHO)](https://www.who.int/teams/global-tuberculosis-programme/data) repository.
 Interactive Tableau visualizations enable exploration at global, regional, and country levels with a particular focus on three indicators: TB incidence, TB deaths, and TB + HIV coinfection.
 
 
