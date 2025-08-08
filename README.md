@@ -1,4 +1,4 @@
-## Tuberculosis-Temporal-and-geographical-evolution
+# Tuberculosis: Temporal and geographical evolution
 
 
 ### Project summary ###
@@ -57,3 +57,5 @@ The Tableau workbook contains dashboards tailored to analyze:
 
 ### Interactive Visualizations
 Explore the full interactive dashboards here: [Global Tuberculosis in Tableau Public] (https://public.tableau.com/app/profile/valeria.burgos/viz/Tuberculosistemporalandgeographicalevolution/Story2)
+
+![Dashboard Preview](dashboard_preview.png)
